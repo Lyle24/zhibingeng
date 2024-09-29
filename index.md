@@ -1,4 +1,4 @@
-I'm a fifth-year Ph.D. student at the University of Chinese Academic of Sciences.  
+I'm a fifth-year Ph.D. student at the University of Chinese Academic of Sciences under the supervision of Prof. Binyong Sun. Before that, I received a B.Sc. from the Hua Loo-Keng class at Shandong University, majoring in applied mathematics.  
 My name in Chinese : 耿智斌  
 Email: gengzhibin@amss.ac.cn  
 Here is my [<u>CV</u>](./Curriculum_Vitae.pdf)
