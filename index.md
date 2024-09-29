@@ -1,4 +1,4 @@
-I'm a fifth-year Ph.D. student in UCAS.  
+I'm a fifth-year Ph.D. student at the University of Chinese Academic of Sciences.  
 My name in Chinese : 耿智斌  
 Email: gengzhibin@amss.ac.cn  
 Here is my [<u>CV</u>](./Curriculum_Vitae.pdf)
