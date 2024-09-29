@@ -1,4 +1,4 @@
-I'm a PhD student in UCAS in the fifth grade.  
+I'm a fifth-year Ph.D. student in UCAS.
 My name in Chinese : 耿智斌  
 Email: gengzhibin@amss.ac.cn  
 Here is my [CV]{}
