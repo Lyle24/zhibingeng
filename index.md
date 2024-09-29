@@ -1,4 +1,4 @@
-# Zhibin Geng's Homepage
+%# Zhibin Geng's Homepage
 
 ## About me
 耿智斌traditional
