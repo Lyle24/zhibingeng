@@ -7,4 +7,4 @@ Here is my [<u>CV</u>](./Curriculum_V)
 ## Research
 My research area is Representation Theory of Real and P-adic Groups. I'm also interested in the Langlands Program. 
 ### Preprint
-- On the existence of Shalika periods ([<u>pdf</u>](./Curriculum_V))
+- On the existence of twisted Shalika periods ([<u>pdf</u>](./Curriculum_V))
