@@ -8,10 +8,10 @@ Here is my [<u>CV</u>](./Curriculum_V) .
 My research area is Representation Theory of Real and P-adic Groups. I'm also interested in the Langlands Program. 
 
 ## Preprint
-- On the existence of twisted Shalika periods ([pdf](./Curriculum_V))
+- On the existence of twisted Shalika periods ([<u>pdf</u>](./Curriculum_V))
 
 ## Conferences Attended
-- [Satellite Conference in Number Theory of International Congress of Basic Science](https://satelliteconference2023.casconf.cn/)       
+- [<u>Satellite Conference in Number Theory of International Congress of Basic Science</u>](https://satelliteconference2023.casconf.cn/)              
   MCM, Beijing, China, July 10 - 14, 2023.  
-- [Real reductive groups and Theta correspondence](http://tianyuan.amss.ac.cn/ztyt/info/2024/145230.html)      
+- [<u>Real reductive groups and Theta correspondence</u>](http://tianyuan.amss.ac.cn/ztyt/info/2024/145230.html)      
   Tianyuan Mathematics research Center, Yunnan, China, July 21 - 27, 2024.   
