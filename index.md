@@ -11,5 +11,7 @@ My research area is Representation Theory of Real and P-adic Groups. I'm also in
 
 ## Conferences Attended
 - [Satellite Conference in Number Theory of ICBS](https://satelliteconference2023.casconf.cn/)  
-  July 10 - 14, 2023, MCM, Beijing, China.   
-- [Real reductive groups and Theta correspondence](http://tianyuan.amss.ac.cn/ztyt/info/2024/145230.html)
+  July 10 - 14, 2023, MCM, Beijing, China.
+  MCM, Beijing, China, July 10 - 14, 2023.  
+- [Real reductive groups and Theta correspondence](http://tianyuan.amss.ac.cn/ztyt/info/2024/145230.html)    
+  July 21 - 27, 2024, Tianyuan Mathematics research Center, Yunnan, China.
