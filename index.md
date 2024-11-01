@@ -10,5 +10,6 @@ My research area is Representation Theory of Real and P-adic Groups. I'm also in
 - On the existence of twisted Shalika periods ([pdf](./Curriculum_V))
 
 ## Conferences Attended
-- [Satellite Conference in Number Theory of ICBS](https://satelliteconference2023.casconf.cn/)   
+- [Satellite Conference in Number Theory of ICBS](https://satelliteconference2023.casconf.cn/)
+  July 10 - July 14, 2023, MCM, Beijing, China.   
 - [Real reductive groups and Theta correspondence](http://tianyuan.amss.ac.cn/ztyt/info/2024/145230.html)
