@@ -2,7 +2,7 @@ I am a fifth-year Ph.D. student at the University of Chinese Academic of Science
 My name in Chinese : 耿智斌.  
 **Address** : Academy of Mathematics and Systems Science, CAS, No. 55, Zhongguancun East Road, Haidian District, Beijing, China.  
 **Email** : gengzhibin@amss.ac.cn  
-Here is my [<u>CV</u>](./Curriculum_V) .
+Here is my [<u>CV</u>](./CV241106) .
 
 ## Research
 My research interests lie in Representation Theory of Real and P-adic Lie Groups, as well as their connection to the (classical and relative) Langlands Program. 
