@@ -8,10 +8,10 @@ Here is my [<u>CV</u>](./CV241210.pdf) .
 My research interests lie in Representation Theory of real and p-adic Lie groups, as well as their connection to the (classical and relative) Langlands program. 
 
 ### Preprint
-- On the existence of twisted Shalika periods: the Archimedean case ([<u>pdf</u>](./Shalika_periods241231.pdf))
+- On the existence of twisted Shalika periods: the Archimedean case ([<u>pdf</u>](./Shalika_periods241231.pdf)) ([<u>arxiv</u>](https://arxiv.org/abs/2501.11917)) Submitted
 
 ## Conferences Attended
 - [<u>Real reductive groups and Theta correspondence</u>](http://tianyuan.amss.ac.cn/ztyt/info/2024/145230.html)         
-  Tianyuan Mathematics research Center, Yunnan, China, July 21 - 27, 2024.   
+  Tianyuan Mathematics Research Center, Yunnan, China, July 21 - 27, 2024.   
 - [<u>Satellite Conference in Number Theory of International Congress of Basic Science</u>](https://satelliteconference2023.casconf.cn/)                 
   MCM, Beijing, China, July 10 - 14, 2023.  
