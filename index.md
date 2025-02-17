@@ -9,7 +9,7 @@ My research interests lie in Representation Theory of real and p-adic Lie groups
 
 ### Preprint
 - On the existence of twisted Shalika periods: the Archimedean case             
-  Submitted. [<u>arXiv:2501.11917</u>](https://arxiv.org/abs/2501.11917) ([<u>pdf</u>](./Shalika_periods250121.pdf))
+  Submitted. [<u>arXiv:2501.11917</u>](https://arxiv.org/abs/2501.11917) ([<u>pdf</u>](./Shalika_periods250217.pdf))
 
 ## Conferences Attended
 - [<u>Real reductive groups and Theta correspondence</u>](http://tianyuan.amss.ac.cn/ztyt/info/2024/145230.html)         
