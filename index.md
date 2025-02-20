@@ -5,7 +5,7 @@ My name in Chinese : 耿智斌.
 Here is my [<u>CV</u>](./CV250122.pdf).
 
 ## Research
-My research interests lie in Representation Theory of real and p-adic Lie groups, as well as their connection to the (classical and relative) Langlands program. 
+My research interests lie in Representation Theory of real and p-adic Lie groups, as well as its connection to the (classical and relative) Langlands program. 
 
 ### Preprint
 - On the existence of twisted Shalika periods: the Archimedean case             
