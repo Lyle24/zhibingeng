@@ -12,8 +12,8 @@ My research interests lie in Representation Theory of real and p-adic Lie groups
   Submitted. [<u>arXiv:2501.11917</u>](https://arxiv.org/abs/2501.11917) ([<u>pdf</u>](./Shalika_periods250224.pdf))
 
 ## Invited Talks
-- Doctoral Algebra Forum, Peking University, June 23-24, 2025
-- Representation Theory Seminar, Nankai University, March 3, 2025
+- Doctoral Algebra Forum, Peking University, June 23-24, 2025.
+- Representation Theory Seminar, Nankai University, March 3, 2025.
 
 ## Conferences Attended
 - [<u>Real reductive groups and Theta correspondence</u>](http://tianyuan.amss.ac.cn/ztyt/info/2024/145230.html)         
