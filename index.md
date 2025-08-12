@@ -1,6 +1,5 @@
-I am a fifth-year Ph.D. student at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the supervision of Prof. Binyong Sun.  
+I am a Postdoctoral Fellow at the University of Hong Kong. My mentor is Prof. Xuhua He. I received my Ph.D. in Pure Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the supervision of Prof. Binyong Sun.  
 My name in Chinese : 耿智斌.  
-**Address** : Academy of Mathematics and Systems Science, CAS, No. 55, Zhongguancun East Road, Haidian District, Beijing, China.  
 **Email** : gengzhibin@amss.ac.cn  
 Here is my [<u>CV</u>](./CV250713.pdf).
 
