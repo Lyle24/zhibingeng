@@ -4,9 +4,6 @@
      style="width:360px; float:left; margin:0 1.5em 1em 1.2em;">
 <span style="font-size:0.85em; color:#777;">Photo by G</span>
 
-
-<span style="font-style: italic; font-size:11px; line-height:1">(Photo by Guanjie)</span>
-
 I am a Postdoctoral Fellow at the University of Hong Kong, working under the supervision of Prof. Xuhua He. 
 
 I received my Ph.D. in Pure Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the supervision of Prof. Binyong Sun.  
