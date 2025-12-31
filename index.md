@@ -5,7 +5,7 @@ layout: default
 <h1 style="color:#0969da !important;">Zhibin GENG's Homepage</h1>
 
 <div style="float:left; margin:0 1.5em 1.2em 1.5em; width:500px;">
-  <img src="photos/AWS250326.jpg" alt="Zhibin Geng"
+  <img src="photos/AWS250326_homepage.jpg" alt="Zhibin Geng"
        style="width:100%; display:block;">
   <div style="text-align:center; margin-top:5px;">
     <small style="font-style: italic; font-size:11px; color:#777;">Photo by Guanjie</small>
