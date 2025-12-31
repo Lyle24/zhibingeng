@@ -1,4 +1,4 @@
-I am a Postdoctoral Fellow at the University of Hong Kong. My mentor is Prof. Xuhua He. I received my Ph.D. in Pure Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the supervision of Prof. Binyong Sun.  
+I am a Postdoctoral Fellow at the University of Hong Kong, working under the supervision of Prof. Xuhua He. I received my Ph.D. in Pure Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the supervision of Prof. Binyong Sun.  
 My name in Chinese : 耿智斌.  
 **Email** : gengzhibin@amss.ac.cn  
 Here is my [<u>CV</u>](./CV251010.pdf).
@@ -7,7 +7,7 @@ Here is my [<u>CV</u>](./CV251010.pdf).
 My research interests lie in Representation Theory of real and p-adic Lie groups, as well as its connection to the (classical and relative) Langlands program. 
 
 ### Preprint
-- On the existence of twisted Shalika periods: the Archimedean case             
+- **On the existence of twisted Shalika periods: the Archimedean case**             
   Submitted. [<u>arXiv:2501.11917</u>](https://arxiv.org/abs/2501.11917) ([<u>pdf</u>](./Shalika_periods250224.pdf))
 
 ## Invited Talks
