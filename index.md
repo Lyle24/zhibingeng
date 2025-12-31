@@ -2,7 +2,17 @@
 
 <img src="photos/AWS250326.jpg" alt="Zhibin Geng"
      style="width:360px; float:left; margin:0 1.5em 1em 1.2em;">
-<span style="font-size:0.85em; color:#777;">Photo by G</span>
+<span style="font-style: italic; font-size:11px; line-height:1">Photo by Guanjie</span>
+
+
+
+<div style="flex-shrink:0; display:flex; flex-direction:column; align-items:center;">
+  <img src="photos/AWS250326.jpg" alt="Zhibin Geng"
+       style="width:320px; max-width:100%; border-radius:6px;">
+  <small style="margin-top:6px; color:#777;">
+    Photo by G
+  </small>
+</div>
 
 I am a Postdoctoral Fellow at the University of Hong Kong, working under the supervision of Prof. Xuhua He. 
 
