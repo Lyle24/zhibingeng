@@ -1,9 +1,7 @@
 #theme: jekyll-theme-cayman
 
 title: Zhibin GENG's Homepage
-description: >
-  I am a Postdoctoral Fellow at the University of Hong Kong
-  working in the representation theory of Lie groups.
+description: I am a Postdoctoral Fellow at the University of Hong Kong, working in the representation theory of Lie groups.
 
 plugins:
   - jekyll-seo-tag
