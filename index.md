@@ -4,7 +4,7 @@
   <img src="photos/AWS250326.jpg" alt="Zhibin Geng"
        style="width:100%; display:block;">
   <div style="text-align:center; margin-top:6px;">
-    <small style="color:#777;">Photo by Guanjie</small>
+    <small style="font-style: italic; font-size:11px; color:#777;">Photo by Guanjie</small>
   </div>
 </div>
 
