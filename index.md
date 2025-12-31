@@ -27,6 +27,10 @@ My research interests lie in Representation Theory of real and p-adic Lie groups
 - **On the existence of twisted Shalika periods: the Archimedean case**             
   Submitted. [<u>arXiv:2501.11917</u>](https://arxiv.org/abs/2501.11917) ([<u>pdf</u>](./Shalika_periods250224.pdf))
 
+
+## Teaching
+- Spring 2026: MATH7301, Lie Groups and Lie Algebra.
+
 ## Invited Talks
 - Doctoral Algebra Forum, Peking University, June 23-24, 2025.
 - Representation Theory Seminar, Nankai University, March 3, 2025.
