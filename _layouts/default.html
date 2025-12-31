@@ -2,11 +2,23 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
+  <title>{{ page.title | default: site.title }}</title>
   {% seo %}
-  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/github-markdown-light.css' | relative_url }}">
+
+  <!-- Optional: limit width to look like a paper -->
+  <style>
+    .markdown-body {
+      max-width: 860px;
+      margin: 40px auto;
+      padding: 0 16px;
+    }
+  </style>
 </head>
+
 <body>
-  {{ content }}
+  <main class="markdown-body">
+    {{ content }}
+  </main>
 </body>
 </html>
