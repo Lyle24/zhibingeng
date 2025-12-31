@@ -8,7 +8,7 @@
   </div>
 </div>
 
-I am a Postdoctoral Fellow at the University of Hong Kong, working under the supervision of Prof. Xuhua He. 500
+I am a Postdoctoral Fellow at the University of Hong Kong, working under the supervision of Prof. Xuhua He.
 
 I received my Ph.D. in Pure Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the supervision of Prof. Binyong Sun.  
 
@@ -19,9 +19,6 @@ My name in Chinese : 耿智斌.
 Here is my [<u>CV</u>](./CV251010.pdf).
 
 <div style="clear:both;"></div>
-
-
-
 
 ## Research
 My research interests lie in Representation Theory of real and p-adic Lie groups, as well as its connection to the (classical and relative) Langlands program. 
