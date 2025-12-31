@@ -1,6 +1,6 @@
 <h1 style="color:#0969da !important;">Zhibin GENG's Homepage</h1>
 
-<div style="float:left; margin:0 1.5em 1.2em 1.5em; width:600px;">
+<div style="float:left; margin:0 1.5em 1.2em 1.5em; width:540px;">
   <img src="photos/AWS250326.jpg" alt="Zhibin Geng"
        style="width:100%; display:block;">
   <div style="text-align:center; margin-top:5px;">
@@ -8,7 +8,7 @@
   </div>
 </div>
 
-I am a Postdoctoral Fellow at the University of Hong Kong, working under the supervision of Prof. Xuhua He.6000
+I am a Postdoctoral Fellow at the University of Hong Kong, working under the supervision of Prof. Xuhua He.540
 
 I received my Ph.D. in Pure Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the supervision of Prof. Binyong Sun.  
 
