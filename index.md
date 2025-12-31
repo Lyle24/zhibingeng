@@ -1,10 +1,10 @@
 <h1 style="color:#0969da !important;">Zhibin GENG's Homepage</h1>
 
-<div style="float:left; margin:0 1.5em 1.2em 1.5em; width:360px;">
+<div style="float:left; margin:0 1.5em 1.2em 1.5em; width:420px;">
   <img src="photos/AWS250326.jpg" alt="Zhibin Geng"
        style="width:100%; display:block;">
   <div style="text-align:center; margin-top:6px;">
-    <small style="color:#777;">Photo by G</small>
+    <small style="color:#777;">Photo by Guanjie</small>
   </div>
 </div>
 
@@ -15,6 +15,8 @@ I received my Ph.D. in Pure Mathematics from the Academy of Mathematics and Syst
 My name in Chinese : 耿智斌.  
 **Email** : gengzhibin@amss.ac.cn  
 Here is my [<u>CV</u>](./CV251010.pdf).
+
+
 
 
 
