@@ -1,6 +1,6 @@
 <h1 style="color:#0969da !important;">Zhibin GENG's Homepage</h1>
 
-<div style="float:left; margin:0 1.5em 1.2em 1.5em; width:420px;">
+<div style="float:left; margin:0 1.5em 1.2em 1.5em; width:450px;">
   <img src="photos/AWS250326.jpg" alt="Zhibin Geng"
        style="width:100%; display:block;">
   <div style="text-align:center; margin-top:6px;">
