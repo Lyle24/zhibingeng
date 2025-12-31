@@ -9,7 +9,7 @@
 </div>
 
 <div style="flex-shrink:0;">
-  <img src="photos/AWS250326.jpg"" alt="Zhibin Geng"
+  <img src="photos/AWS250326.jpg" alt="Zhibin Geng"
        style="width:360px; max-width:100%; border-radius:6px; display:block;">
   <div style="text-align:center; margin-top:6px;">
     <small style="font-style: italic; color:#777;">Photo by Guanjie</small>
