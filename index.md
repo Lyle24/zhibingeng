@@ -2,7 +2,7 @@
 
 <div style="flex-shrink:0; display:flex; flex-direction:column; align-items:center;">
   <img src="photos/AWS250326.jpg" alt="Zhibin Geng"
-       style="width:360px; max-width:100%; border-radius:6px;">
+       style="width:360px; max-width:100%;">
   <small style="font-style: italic; margin-top:6px; color:#777;">
     Photo by Guanjie
   </small>
