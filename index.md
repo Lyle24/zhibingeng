@@ -1,8 +1,3 @@
----
-title: Zhibin GENG's Homepage
-layout: default
----
-
 I am a Postdoctoral Fellow at the University of Hong Kong, working under the supervision of Prof. Xuhua He. I received my Ph.D. in Pure Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the supervision of Prof. Binyong Sun.  
 My name in Chinese : 耿智斌.  
 **Email** : gengzhibin@amss.ac.cn  
