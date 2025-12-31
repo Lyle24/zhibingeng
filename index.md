@@ -1,11 +1,14 @@
 <h1 style="color:#0969da !important;">Zhibin GENG's Homepage</h1>
 
 <img src="photos/AWS250326.jpg" alt="Zhibin Geng"
-     style="width:400px; float:left; margin:0 0 1em 1.2em;">
+     style="width:360px; float:left; margin:0 0 1em 1.2em;">
+
 I am a Postdoctoral Fellow at the University of Hong Kong, working under the supervision of Prof. Xuhua He. I received my Ph.D. in Pure Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the supervision of Prof. Binyong Sun.  
 My name in Chinese : 耿智斌.  
 **Email** : gengzhibin@amss.ac.cn  
 Here is my [<u>CV</u>](./CV251010.pdf).
+
+
 
 
 ## Research
