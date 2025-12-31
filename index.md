@@ -8,6 +8,14 @@
   </small>
 </div>
 
+<div style="flex-shrink:0;">
+  <img src="photos/AWS250326.jpg"" alt="Zhibin Geng"
+       style="width:360px; max-width:100%; border-radius:6px; display:block;">
+  <div style="text-align:center; margin-top:6px;">
+    <small style="font-style: italic; color:#777;">Photo by Guanjie</small>
+  </div>
+</div>
+
 I am a Postdoctoral Fellow at the University of Hong Kong, working under the supervision of Prof. Xuhua He. 
 
 I received my Ph.D. in Pure Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the supervision of Prof. Binyong Sun.  
