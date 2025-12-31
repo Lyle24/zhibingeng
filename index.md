@@ -1,3 +1,7 @@
+---
+title: Zhibin GENG's Homepage
+layout: default
+---
 <h1 style="color:#0969da !important;">Zhibin GENG's Homepage</h1>
 
 <div style="float:left; margin:0 1.5em 1.2em 1.5em; width:500px;">
