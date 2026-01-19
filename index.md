@@ -38,13 +38,15 @@ My research interests lie in Representation Theory of real and p-adic Lie groups
 - Spring 2026: MATH7301, Lie Groups and Lie Algebra.
 
 ## Invited Talks
-- Doctoral Algebra Forum, Peking University, June 23-24, 2025.
-- Representation Theory Seminar, Nankai University, March 3, 2025.
+- Doctoral Algebra Forum, Peking University, Jun. 23-24, 2025.
+- Representation Theory Seminar, Nankai University, Mar. 3, 2025.
 
 ## Conferences Attended
+- [<u>Relative Langlands Program</u>](https://ims.nus.edu.sg/events/relative-langlands-program/)                      
+  National University of Singapore, Singapore, Jan. 5-17, 2026.
 - [<u>Arizona Winter School 2025: Representation theory of p-adic groups</u>](https://swc-math.github.io/aws/2025/index.html)      
-  University of Arizona, Arizona, USA, March 8 - 12, 2025.  
+  University of Arizona, Arizona, USA, Mar. 8-12, 2025.  
 - [<u>Real reductive groups and Theta correspondence</u>](http://tianyuan.amss.ac.cn/ztyt/info/2024/145230.html)         
-  Tianyuan Mathematics Research Center, Yunnan, China, July 21 - 27, 2024.   
+  Tianyuan Mathematics Research Center, Yunnan, China, Jul. 21-27, 2024.   
 - [<u>Satellite Conference in Number Theory of International Congress of Basic Science</u>](https://satelliteconference2023.casconf.cn/)                 
-  MCM, Beijing, China, July 10 - 14, 2023.  
+  MCM, Beijing, China, Jul. 10-14, 2023.  
