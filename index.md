@@ -35,7 +35,7 @@ My research interests lie in Representation Theory of real and p-adic Lie groups
 
 
 ## Teaching
-- Spring 2026: MATH7301, Lie Groups and Lie Algebra. [Course homepage](./MATH7301.md)
+- Spring 2026: MATH7301, Lie Groups and Lie Algebra. [<u>Course homepage</u>](./MATH7301.md)
 
 ## Invited Talks
 - Doctoral Algebra Forum, Peking University, Jun. 23-24, 2025.
