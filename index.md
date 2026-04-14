@@ -12,9 +12,9 @@ layout: default
   </div>
 </div>
 
-I am a Postdoctoral Fellow at the University of Hong Kong, working under the supervision of Prof. Xuhua He.
+I am a Postdoctoral Fellow at the University of Hong Kong, working under the supervision of Prof. [Xuhua He](https://hkumath.hku.hk/~xuhuahe/).
 
-I received my Ph.D. in Pure Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the supervision of Prof. Binyong Sun.  
+I received my Ph.D. in Pure Mathematics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the supervision of Prof. [Binyong Sun](http://www.iasm.zju.edu.cn/SunBinyong/list.htm).  
 
 My name in Chinese : 耿智斌.  
 
