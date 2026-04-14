@@ -20,7 +20,7 @@ My name in Chinese : 耿智斌.
 
 **Email** : gengzhibin@amss.ac.cn  
 
-Here is my [<u>CV</u>](./CV251010.pdf).
+Here is my [<u>CV</u>](./CV/CV260414.pdf).
 
 <div style="clear:both;"></div>
 
