@@ -42,6 +42,8 @@ My research interests lie in Representation Theory of real and p-adic Lie groups
 - Representation Theory Seminar, Nankai University, Mar. 3, 2025.
 
 ## Conferences Attended
+- [<u>The Langlands Programme: Recent Trends, New Developments, and Applications</u>](https://sites.google.com/view/langlandsprogrammelmssheffield/home)                      
+  The University of Sheffield, UK, Jul. 13-17, 2026.
 - [<u>Relative Langlands Program</u>](https://ims.nus.edu.sg/events/relative-langlands-program/)                      
   National University of Singapore, Singapore, Jan. 5-17, 2026.
 - [<u>Arizona Winter School 2025: Representation theory of p-adic groups</u>](https://swc-math.github.io/aws/2025/index.html)      
